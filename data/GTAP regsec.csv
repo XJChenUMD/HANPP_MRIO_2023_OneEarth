@@ -1,0 +1,142 @@
+reg.no,reg.code,reg.description,Number,Code,Description
+1,aus,Australia,1,pdr,Paddy rice
+2,nzl,New Zealand,2,wht,Wheat
+3,xoc,Rest of Oceania,3,gro,Cereal grains nec
+4,chn,China,4,v_f,"Vegetables, fruit, nuts"
+5,hkg,"Hong Kong, Special Administrative Region of China",5,osd,Oil seeds
+6,jpn,Japan,6,c_b,"Sugar cane, sugar beet"
+7,kor,South Korea,7,pfb,Plant-based fibers
+8,mng,Mongolia,8,ocr,Crops nec
+9,twn,Taiwan,9,ctl,"Bovine cattle, sheep and goats, horses"
+10,xea,Rest of East Asia,10,oap,Animal products nec
+11,brn,Brunei Darussalam,11,rmk,Raw milk
+12,khm,Cambodia,12,wol,"Wool, silk-worm cocoons"
+13,idn,Indonesia,13,frs,Forestry
+14,lao,Laos,14,fsh,Fishing
+15,mys,Malaysia,15,coa,Coal
+16,phl,Philippines,16,oil,Oil
+17,sgp,Singapore,17,gas,Gas
+18,tha,Thailand,18,oxt,Other Extraction (formerly omn Minerals nec)
+19,vnm,Vietnam,19,cmt,Bovine meat products
+20,xse,Rest of Southeast Asia,20,omt,Meat products nec
+21,bgd,Bangladesh,21,vol,Vegetable oils and fats
+22,ind,India,22,mil,Dairy products
+23,npl,Nepal,23,pcr,Processed rice
+24,pak,Pakistan,24,sgr,Sugar
+25,lka,Sri Lanka,25,ofd,Food products nec
+26,xsa,Rest of South Asia,26,b_t,Beverages and tobacco products
+27,can,Canada,27,tex,Textiles
+28,usa,United States of America,28,wap,Wearing apparel
+29,mex,Mexico,29,lea,Leather products
+30,xna,Rest of North America,30,lum,Wood products
+31,arg,Argentina,31,ppp,"Paper products, publishing"
+32,bol,Bolivia,32,p_c,"Petroleum, coal products"
+33,bra,Brazil,33,chm,Chemical products
+34,chl,Chile,34,bph,Basic pharmaceutical products
+35,col,Colombia,35,rpp,Rubber and plastic products
+36,ecu,Ecuador,36,nmm,Mineral products nec
+37,pry,Paraguay,37,i_s,Ferrous metals
+38,per,Peru,38,nfm,Metals nec
+39,ury,Uruguay,39,fmp,Metal products
+40,ven,Venezuela (Bolivarian Republic of),40,ele,"Computer, electronic and optical products"
+41,xsm,Rest of South America,41,eeq,Electrical equipment
+42,cri,Costa Rica,42,ome,Machinery and equipment nec
+43,gtm,Guatemala,43,mvh,Motor vehicles and parts
+44,hnd,Honduras,44,otn,Transport equipment nec
+45,nic,Nicaragua,45,omf,Manufactures nec
+46,pan,Panama,46,ely,Electricity
+47,slv,El Salvador,47,gdt,"Gas manufacture, distribution"
+48,xca,Rest of Central America,48,wtr,Water
+49,dom,Dominican Republic,49,cns,Construction
+50,jam,Jamaica,50,trd,Trade
+51,pri,Puerto Rico,51,afs,"Accommodation, Food and service activities"
+52,tto,Trinidad and Tobago,52,otp,Transport nec
+53,xcb,Caribbean,53,wtp,Water transport
+54,aut,Austria,54,atp,Air transport
+55,bel,Belgium,55,whs,Warehousing and support activities
+56,cyp,Cyprus,56,cmn,Communication
+57,cze,Czech Republic,57,ofi,Financial services nec
+58,dnk,Denmark,58,ins,Insurance (formerly isr)
+59,est,Estonia,59,rsa,Real estate activities
+60,fin,Finland,60,obs,Business services nec
+61,fra,France,61,ros,Recreational and other services
+62,deu,Germany,62,osg,Public Administration and defense
+63,grc,Greece,63,edu,Education
+64,hun,Hungary,64,hht,Human health and social work activities
+65,irl,Ireland,65,dwe,Dwellings
+66,ita,Italy,,,
+67,lva,Latvia,,,
+68,ltu,Lithuania,,,
+69,lux,Luxembourg,,,
+70,mlt,Malta,,,
+71,nld,Netherlands,,,
+72,pol,Poland,,,
+73,prt,Portugal,,,
+74,svk,Slovakia,,,
+75,svn,Slovenia,,,
+76,esp,Spain,,,
+77,swe,Sweden,,,
+78,gbr,United Kingdom,,,
+79,che,Switzerland,,,
+80,nor,Norway,,,
+81,xef,Rest of EFTA,,,
+82,alb,Albania,,,
+83,bgr,Bulgaria,,,
+84,blr,Belarus,,,
+85,hrv,Croatia,,,
+86,rou,Romania,,,
+87,rus,Russian Federation,,,
+88,ukr,Ukraine,,,
+89,xee,Rest of Eastern Europe,,,
+90,xer,Rest of Europe,,,
+91,kaz,Kazakhstan,,,
+92,kgz,Kyrgyzstan,,,
+93,tjk,Tajikistan,,,
+94,xsu,Rest of Former Soviet Union,,,
+95,arm,Armenia,,,
+96,aze,Azerbaijan,,,
+97,geo,Georgia,,,
+98,bhr,Bahrain,,,
+99,irn,Iran,,,
+100,isr,Israel,,,
+101,jor,Jordan,,,
+102,kwt,Kuwait,,,
+103,omn,Oman,,,
+104,qat,Qatar,,,
+105,sau,Saudi Arabia,,,
+106,tur,Turkey,,,
+107,are,United Arab Emirates,,,
+108,xws,Rest of Western Asia,,,
+109,egy,Egypt,,,
+110,mar,Morocco,,,
+111,tun,Tunisia,,,
+112,xnf,Rest of North Africa,,,
+113,ben,Benin,,,
+114,bfa,Burkina Faso,,,
+115,cmr,Cameroon,,,
+116,civ,Cote dIvoire,,,
+117,gha,Ghana,,,
+118,gin,Guinea,,,
+119,nga,Nigeria,,,
+120,sen,Senegal,,,
+121,tgo,Togo,,,
+122,xwf,Rest of Western Africa,,,
+123,xcf,Central Africa,,,
+124,xac,South Central Africa,,,
+125,eth,Ethiopia,,,
+126,ken,Kenya,,,
+127,mdg,Madagascar,,,
+128,mwi,Malawi,,,
+129,mus,Mauritius,,,
+130,moz,Mozambique,,,
+131,rwa,Rwanda,,,
+132,tza,Tanzania,,,
+133,uga,Uganda,,,
+134,zmb,Zambia,,,
+135,zwe,Zimbabwe,,,
+136,xec,Rest of Eastern Africa,,,
+137,bwa,Botswana,,,
+138,nam,Namibia,,,
+139,zaf,South Africa,,,
+140,xsc,Rest of South African Customs Union,,,
+141,xtw,Rest of the World,,,

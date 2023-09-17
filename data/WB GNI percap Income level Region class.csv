@@ -1,0 +1,142 @@
+Number,Code,Description,IncomeGroup,IncomeGroup2,DC.LDC
+1,AUS,Australia,High income,High income,Advanced Economies
+2,NZL,New Zealand,High income,High income,Advanced Economies
+3,XOC,Rest of Oceania,Rest of world,Lower middle income,Emerging and Developing Economies
+4,CHN,China,Upper middle income,Upper middle income,Emerging and Developing Economies
+5,HKG,Hong Kong,High income,High income,Advanced Economies
+6,JPN,Japan,High income,High income,Advanced Economies
+7,KOR,North Korea,High income,High income,Advanced Economies
+8,MNG,Mongolia,Lower middle income,Lower middle income,Emerging and Developing Economies
+9,TWN,Taiwan,High income,High income,Advanced Economies
+10,XEA,Rest of East Asia,Rest of world,Lower middle income,Emerging and Developing Economies
+11,BRN,Brunei,High income,High income,Emerging and Developing Economies
+12,KHM,Cambodia,Lower middle income,Lower middle income,Emerging and Developing Economies
+13,IDN,Indonesia,Lower middle income,Lower middle income,Emerging and Developing Economies
+14,LAO,Lao PDR,Lower middle income,Lower middle income,Emerging and Developing Economies
+15,MYS,Malaysia,Upper middle income,Upper middle income,Emerging and Developing Economies
+16,PHL,Philippines,Lower middle income,Lower middle income,Emerging and Developing Economies
+17,SGP,Singapore,High income,High income,Advanced Economies
+18,THA,Thailand,Upper middle income,Upper middle income,Emerging and Developing Economies
+19,VNM,Viet Nam,Lower middle income,Lower middle income,Emerging and Developing Economies
+20,XSE,Rest of Southeast Asia,Rest of world,Lower middle income,Emerging and Developing Economies
+21,BGD,Bangladesh,Lower middle income,Lower middle income,Emerging and Developing Economies
+22,IND,India,Lower middle income,Lower middle income,Emerging and Developing Economies
+23,NPL,Nepal,Low income,Low income,Emerging and Developing Economies
+24,PAK,Pakistan,Lower middle income,Lower middle income,Emerging and Developing Economies
+25,LKA,Sri Lanka,Upper middle income,Upper middle income,Emerging and Developing Economies
+26,XSA,Rest of South Asia,Rest of world,Low income,Emerging and Developing Economies
+27,CAN,Canada,High income,High income,Advanced Economies
+28,USA,USA,High income,High income,Advanced Economies
+29,MEX,Mexico,Upper middle income,Upper middle income,Emerging and Developing Economies
+30,XNA,Rest of North America,Rest of world,High income,Emerging and Developing Economies
+31,ARG,Argentina,Upper middle income,Upper middle income,Emerging and Developing Economies
+32,BOL,Bolivia,Lower middle income,Lower middle income,Emerging and Developing Economies
+33,BRA,Brazil,Upper middle income,Upper middle income,Emerging and Developing Economies
+34,CHL,Chile,High income,High income,Emerging and Developing Economies
+35,COL,Colombia,Lower middle income,Lower middle income,Emerging and Developing Economies
+36,ECU,Ecuador,Upper middle income,Upper middle income,Emerging and Developing Economies
+37,PRY,Paraguay,Upper middle income,Upper middle income,Emerging and Developing Economies
+38,PER,Peru,Upper middle income,Upper middle income,Emerging and Developing Economies
+39,URY,Uruguay,High income,High income,Emerging and Developing Economies
+40,VEN,Venezuela,Upper middle income,Upper middle income,Emerging and Developing Economies
+41,XSM,Rest of South America,Rest of world,Upper middle income,Emerging and Developing Economies
+42,CRI,Costa Rica,Upper middle income,Upper middle income,Emerging and Developing Economies
+43,GTM,Guatemala,Upper middle income,Upper middle income,Emerging and Developing Economies
+44,HND,Honduras,Lower middle income,Lower middle income,Emerging and Developing Economies
+45,NIC,Nicaragua,Lower middle income,Lower middle income,Emerging and Developing Economies
+46,PAN,Panama,High income,High income,Emerging and Developing Economies
+47,SLV,El Salvador,Lower middle income,Lower middle income,Emerging and Developing Economies
+48,XCA,Rest of Central America,Rest of world,Lower middle income,Emerging and Developing Economies
+49,DOM,Dominican Republic,Upper middle income,Upper middle income,Emerging and Developing Economies
+50,JAM,Jamaica,Upper middle income,Upper middle income,Emerging and Developing Economies
+51,PRI,Puerto Rico,High income,High income,Emerging and Developing Economies
+52,TTO,Trinidad and Tobago,High income,High income,Emerging and Developing Economies
+53,XCB,Rest of Caribbean,Rest of world,Upper middle income,Emerging and Developing Economies
+54,AUT,Austria,High income,High income,Advanced Economies
+55,BEL,Belgium,High income,High income,Advanced Economies
+56,BGR,Bulgaria,Upper middle income,Upper middle income,Emerging and Developing Economies
+57,HRV,Croatia,High income,High income,Emerging and Developing Economies
+58,CYP,Cyprus,High income,High income,Advanced Economies
+59,CZE,Czech Republic,High income,High income,Advanced Economies
+60,DNK,Denmark,High income,High income,Advanced Economies
+61,EST,Estonia,High income,High income,Emerging and Developing Economies
+62,FIN,Finland,High income,High income,Advanced Economies
+63,FRA,France,High income,High income,Advanced Economies
+64,DEU,Germany,High income,High income,Advanced Economies
+65,GRC,Greece,High income,High income,Advanced Economies
+66,HUN,Hungary,High income,High income,Emerging and Developing Economies
+67,IRL,Ireland,High income,High income,Advanced Economies
+68,ITA,Italy,High income,High income,Advanced Economies
+69,LVA,Latvia,High income,High income,Emerging and Developing Economies
+70,LTU,Lithuania,High income,High income,Emerging and Developing Economies
+71,LUX,Luxembourg,High income,High income,Advanced Economies
+72,MLT,Malta,High income,High income,Advanced Economies
+73,NLD,Netherlands,High income,High income,Advanced Economies
+74,POL,Poland,High income,High income,Emerging and Developing Economies
+75,PRT,Portugal,High income,High income,Advanced Economies
+76,ROU,Romania,Upper middle income,Upper middle income,Emerging and Developing Economies
+77,SVK,Slovakia,High income,High income,Advanced Economies
+78,SVN,Slovenia,High income,High income,Advanced Economies
+79,ESP,Spain,High income,High income,Advanced Economies
+80,SWE,Sweden,High income,High income,Advanced Economies
+81,GBR,UK,High income,High income,Advanced Economies
+82,CHE,Switzerland,High income,High income,Advanced Economies
+83,NOR,Norway,High income,High income,Advanced Economies
+84,XEF,Rest of European Free Trade Association,Rest of world,High income,Advanced Economies
+85,ALB,Albania,Upper middle income,Upper middle income,Emerging and Developing Economies
+86,BLR,Belarus,Upper middle income,Upper middle income,Emerging and Developing Economies
+87,RUS,Russia,Upper middle income,Upper middle income,Emerging and Developing Economies
+88,UKR,Ukraine,Lower middle income,Lower middle income,Emerging and Developing Economies
+89,XEE,Rest of Eastern Europe,Rest of world,Lower middle income,Emerging and Developing Economies
+90,XER,Rest of Europe,Rest of world,Upper middle income,Emerging and Developing Economies
+91,KAZ,Kazakhstan,Upper middle income,Upper middle income,Emerging and Developing Economies
+92,KGZ,Kyrgyztan,Lower middle income,Lower middle income,Emerging and Developing Economies
+93,TJK,Tajikistan,Low income,Low income,Emerging and Developing Economies
+94,XSU,Rest of Former Soviet Union,Rest of world,Lower middle income,Emerging and Developing Economies
+95,ARM,Armenia,Upper middle income,Upper middle income,Emerging and Developing Economies
+96,AZE,Azerbaijan,Upper middle income,Upper middle income,Emerging and Developing Economies
+97,GEO,Georgia,Upper middle income,Upper middle income,Emerging and Developing Economies
+98,BHR,Bahrain,High income,High income,Emerging and Developing Economies
+99,IRN,Iran,Upper middle income,Upper middle income,Emerging and Developing Economies
+100,ISR,Israel,High income,High income,Advanced Economies
+101,JOR,Jordan,Upper middle income,Upper middle income,Emerging and Developing Economies
+102,KWT,Kuwait,High income,High income,Emerging and Developing Economies
+103,OMN,Oman,High income,High income,Emerging and Developing Economies
+104,QAT,Qatar,High income,High income,Emerging and Developing Economies
+105,SAU,Saudi Arabia,High income,High income,Emerging and Developing Economies
+106,TUR,Turkey,Upper middle income,Upper middle income,Emerging and Developing Economies
+107,ARE,United Arab Emirates,High income,High income,Emerging and Developing Economies
+108,XWS,Rest of Western Asia,Rest of world,Lower middle income,Emerging and Developing Economies
+109,EGY,Egypt,Lower middle income,Lower middle income,Emerging and Developing Economies
+110,MAR,Morocco,Lower middle income,Lower middle income,Emerging and Developing Economies
+111,TUN,Tunisia,Lower middle income,Lower middle income,Emerging and Developing Economies
+112,XNF,Rest of North Africa,Rest of world,Upper middle income,Emerging and Developing Economies
+113,BEN,Benin,Low income,Low income,Emerging and Developing Economies
+114,BFA,Burkina Faso,Low income,Low income,Emerging and Developing Economies
+115,CMR,Cameroon,Lower middle income,Lower middle income,Emerging and Developing Economies
+116,CIV,Cote d'Ivoire,Lower middle income,Lower middle income,Emerging and Developing Economies
+117,GHA,Ghana,Lower middle income,Lower middle income,Emerging and Developing Economies
+118,GIN,Guinea,Low income,Low income,Emerging and Developing Economies
+119,NGA,Nigeria,Lower middle income,Lower middle income,Emerging and Developing Economies
+120,SEN,Senegal,Lower middle income,Lower middle income,Emerging and Developing Economies
+121,TGO,Togo,Low income,Low income,Emerging and Developing Economies
+122,XWF,Rest of Western Africa,Rest of world,Low income,Emerging and Developing Economies
+123,XCF,Rest of Central Africa,Rest of world,Lower middle income,Emerging and Developing Economies
+124,XAC,South Central Africa,Lower middle income,Lower middle income,Emerging and Developing Economies
+125,ETH,Ethiopia,Low income,Low income,Emerging and Developing Economies
+126,KEN,Kenya,Lower middle income,Lower middle income,Emerging and Developing Economies
+127,MDG,Madagascar,Low income,Low income,Emerging and Developing Economies
+128,MWI,Malawi,Low income,Low income,Emerging and Developing Economies
+129,MUS,Mauritius,Upper middle income,Upper middle income,Emerging and Developing Economies
+130,MOZ,Mozambique,Low income,Low income,Emerging and Developing Economies
+131,RWA,Rwanda,Low income,Low income,Emerging and Developing Economies
+132,TZA,Tanzania,Low income,Low income,Emerging and Developing Economies
+133,UGA,Uganda,Low income,Low income,Emerging and Developing Economies
+134,ZMB,Zambia,Lower middle income,Lower middle income,Emerging and Developing Economies
+135,ZWE,Zimbabwe,Lower middle income,Lower middle income,Emerging and Developing Economies
+136,XEC,Rest of Eastern Africa,Rest of world,Low income,Emerging and Developing Economies
+137,BWA,Botswana,Upper middle income,Upper middle income,Emerging and Developing Economies
+138,NAM,Namibia,Upper middle income,Upper middle income,Emerging and Developing Economies
+139,ZAF,South Africa,Upper middle income,Upper middle income,Emerging and Developing Economies
+140,XSC,Rest of South African Customs Union,Rest of world,Lower middle income,Emerging and Developing Economies
+141,XTW,Rest of the World,Rest of world,High income,Emerging and Developing Economies
